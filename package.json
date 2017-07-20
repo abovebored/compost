@@ -1,0 +1,15 @@
+{
+  "name": "compost",
+  "version": "1.0.0",
+  "description": "Testing image feature for DADI CDN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.18.2",
+    "text-to-svg": "^3.1.2"
+  }
+}
